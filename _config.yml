@@ -78,5 +78,5 @@ theme: huno
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:git@github.com:jason-zuo/dazuo-blog.git
+  repo:https://jason-zuo.github.io
   branch:master
