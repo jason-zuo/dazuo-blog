@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: jason-zuo.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -142,3 +142,6 @@ hfc_favicons:
     opengraph: false
     windows: true
     yandex: false
+
+ # Baidu statistic
+baidu_statistic: 0d4b090e7bc08c55188cc581584714ac

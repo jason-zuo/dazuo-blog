@@ -1,0 +1,9 @@
+- title: github
+  icon: icon-github
+  link: https://github.com/jason-zuo
+- title: email
+  icon: icon-email
+  link: dazuo:zuozh05@163.com
+- title: rss
+  icon: icon-rss
+  link: /atom.xml
