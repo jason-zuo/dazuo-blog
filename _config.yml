@@ -4,7 +4,7 @@
 
 # Site
 title: 前端 -- 大左
-subtitle:
+subtitle: 前端
 description:
 author: 大左
 language: zh-cn
@@ -33,15 +33,15 @@ default_layout: post
 titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: true
 relative_link: true
 future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
-  tab_replace:
+  auto_detect: true
+  tab_replace:  true
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -77,9 +77,9 @@ theme: hexo-theme-skapp
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:https://jason-zuo.github.io
-  branch:master
+  type: git
+  repo: git@github.com:jason-zuo/jason-zuo.github.io.git
+  branch: master
 
 # Sass
 node_sass:

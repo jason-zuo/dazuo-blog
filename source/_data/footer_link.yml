@@ -1,0 +1,12 @@
+friend_links:
+  - name: ACERY
+    desc: ACERY
+    link: http://www.helloyzy.cn/
+
+build_tools:
+  - name: Hexo
+    desc: Blog Framework
+    link: https://hexo.io/
+  - name: hexo-theme-skapp
+    desc: 主题 hexo-theme-skapp
+    link: https://github.com/Mrminfive/hexo-theme-skapp
